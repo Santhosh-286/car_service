@@ -733,7 +733,11 @@ button:hover {
     width: 60%;
     display: none;
   }
-
+  
+  .navbar{
+    height: 5vh;
+  }
+  
   header nav img {
     width: 8%;
     display: block !important;
@@ -1078,4 +1082,5 @@ button:hover {
     border-radius: 25px;
   }
 }
+
 
